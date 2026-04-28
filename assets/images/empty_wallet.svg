@@ -1,0 +1,11 @@
+<!-- Simple minimalist empty state icon - Black and White -->
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wallet Icon -->
+  <rect x="40" y="60" width="120" height="80" rx="8" stroke="black" stroke-width="3" fill="white"/>
+  <rect x="40" y="80" width="120" height="3" fill="black"/>
+  <circle cx="130" cy="100" r="8" fill="black"/>
+  
+  <!-- Plus Sign (for adding) -->
+  <line x1="100" y1="160" x2="100" y2="180" stroke="black" stroke-width="3" stroke-linecap="round"/>
+  <line x1="90" y1="170" x2="110" y2="170" stroke="black" stroke-width="3" stroke-linecap="round"/>
+</svg>
