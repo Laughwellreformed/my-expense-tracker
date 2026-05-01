@@ -44,4 +44,9 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+/android/app/google-services.json
+
 *.md
+!README.md
+!PRIVACY_POLICY.md
+!LICENSE.md

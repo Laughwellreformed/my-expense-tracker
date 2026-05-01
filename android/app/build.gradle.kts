@@ -12,7 +12,7 @@ dependencies {
 }
 
 android {
-    namespace = "com.expense.tracker.expense_tracker"
+    namespace = "com.expense.tracker.expense_tracker" // change to mw.expense.tracker
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -28,7 +28,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.expense.tracker.expense_tracker"
+        applicationId = "com.expense.tracker.expense_tracker" // change to mw.expense.tracker
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
